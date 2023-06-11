@@ -1,10 +1,25 @@
-body
-{
-    background-color: rebeccapurple;
-    color: white;
+body{
+    background-color: black;
 }
 
 nav {
-    background-color: green;
-    padding: 10px;
+    background-color: aliceblue;
+}
+
+#elemento-1  {
+    background-color: blue;
+    margin-left: 20%;
+}
+
+#elemento-2 {
+    background-color: cornflowerblue;
+    margin-left: 20%;
+}
+
+#navegador {
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    width: 20%;
 }
